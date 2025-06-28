@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f96007f-b02f-41ea-8d88-996bd4c8a0cf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ArraysProblem/p1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArraysProblem/p10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArraysProblem/p11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArraysProblem/p12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArraysProblem/p13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArraysProblem/p14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArraysProblem/p15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArraysProblem/p16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArraysProblem/p17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArraysProblem/p18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArraysProblem/p19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArraysProblem/p2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArraysProblem/p20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArraysProblem/p3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArraysProblem/p4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArraysProblem/p5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArraysProblem/p6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArraysProblem/p7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArraysProblem/p8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArraysProblem/p9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlowProblems/q1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlowProblems/q10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlowProblems/q11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlowProblems/q12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlowProblems/q13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlowProblems/q14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlowProblems/q15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlowProblems/q16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlowProblems/q17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlowProblems/q18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlowProblems/q19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlowProblems/q2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlowProblems/q20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlowProblems/q21.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlowProblems/q22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlowProblems/q23.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlowProblems/q24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlowProblems/q3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlowProblems/q4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlowProblems/q5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlowProblems/q6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlowProblems/q7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlowProblems/q8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlowProblems/q9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e21.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e23.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e25.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e26.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e27.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e28.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e29.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e30.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e31.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e32.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e33.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e34.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e35.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e36.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e37.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e38.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_problems1/e9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_questions/w1.java/w1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_questions/w1.java/w10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_questions/w1.java/w11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_questions/w1.java/w12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_questions/w1.java/w13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_questions/w1.java/w14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_questions/w1.java/w15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_questions/w1.java/w2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_questions/w1.java/w3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_questions/w1.java/w4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_questions/w1.java/w5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_questions/w1.java/w6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_questions/w1.java/w7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_questions/w1.java/w8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods_questions/w1.java/w9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/q1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/q10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/q11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/q12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/q13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/q14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/q15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/q16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/q17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/q18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/q19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/q2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/q20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/q3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/q4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/q5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/q6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/q7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/q8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/q9.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2ydtTLiUlpGl1uMwfmtE2A5cwyV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;CoreJava&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="BridgeLabz-SIPP-Training" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="BridgeLabz-SIPP-Training" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f96007f-b02f-41ea-8d88-996bd4c8a0cf" name="Changes" comment="" />
+      <created>1750176287330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750176287330</updated>
+    </task>
+    <servers />
+  </component>
+</project>
