@@ -1,0 +1,92 @@
+import java.util.Scanner;
+
+public class Student_grading {
+    static final int SUBJECTS = 3; // You can change this as needed
+    static final int STUDENTS = 2; // You can change this as needed
+
+    static String[] studentNames = new String[STUDENTS];
+    static String[] studentIDs = new String[STUDENTS];
+    static int[][] grades = new int[STUDENTS][SUBJECTS];
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        // Input student details and grades
+        for (int i = 0; i < STUDENTS; i++) {
+            System.out.print("Enter name for Student " + (i + 1) + ": ");
+            studentNames[i] = sc.nextLine();
+
+            System.out.print("Enter ID for Student " + (i + 1) + ": ");
+            studentIDs[i] = sc.nextLine();
+
+            for (int j = 0; j < SUBJECTS; j++) {
+                while (true) {
+                    try {
+                        System.out.print("Enter grade for Subject " + (j + 1) + ": ");
+                        int grade = sc.nextInt();
+                        if (grade < 0 || grade > 100) {
+                            throw new IllegalArgumentException("Grade must be between 0 and 100.");
+                        }
+                        grades[i][j] = grade;
+                        break;
+                    } catch (Exception e) {
+                        System.out.println("Invalid input. " + e.getMessage());
+                        sc.nextLine(); // Clear buffer
+                    }
+                }
+            }
+            sc.nextLine(); // Clear buffer for next student
+        }
+
+        // Calculate and display total and average for each student
+        for (int i = 0; i < STUDENTS; i++) {
+            int total = calculateTotal(grades[i]);
+            double average = total / (double) SUBJECTS;
+            System.out.println("\nStudent: " + studentNames[i] + " (ID: " + studentIDs[i] + ")");
+            System.out.println("Total Marks: " + total);
+            System.out.println("Average Marks: " + average);
+        }
+
+        // Highest grade in each subject
+        for (int j = 0; j < SUBJECTS; j++) {
+            int highest = findHighestInSubject(j);
+            System.out.println("\nHighest grade in Subject " + (j + 1) + ": " + highest);
+        }
+
+        // Overall class average
+        double classAverage = calculateClassAverage();
+        System.out.println("\nOverall Class Average: " + classAverage);
+
+        sc.close();
+    }
+
+    static int calculateTotal(int[] studentGrades) {
+        int total = 0;
+        for (int grade : studentGrades) {
+            total += grade;
+        }
+        return total;
+    }
+
+    static int findHighestInSubject(int subjectIndex) {
+        int highest = -1;
+        for (int i = 0; i < STUDENTS; i++) {
+            if (grades[i][subjectIndex] > highest) {
+                highest = grades[i][subjectIndex];
+            }
+        }
+        return highest;
+    }
+
+    static double calculateClassAverage() {
+        int total = 0;
+        int count = 0;
+        for (int i = 0; i < STUDENTS; i++) {
+            for (int j = 0; j < SUBJECTS; j++) {
+                total += grades[i][j];
+                count++;
+            }
+        }
+        return count == 0 ? 0 : (double) total / count;
+    }
+}
